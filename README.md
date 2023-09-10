@@ -1,0 +1,1 @@
+# Python_Traduzir_Desenho_Quadrinho
